@@ -1,0 +1,10 @@
+root:
+danielalarconcuesta@gmail.com
+1234
+
+users
+jack@gmail.com
+mikel@gmail.com
+1234
+
+To be able to see this web application correctly, it is necessary to use a virtual host.
